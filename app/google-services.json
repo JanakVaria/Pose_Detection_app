@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83597672348",
+    "project_id": "poser-fbe07",
+    "storage_bucket": "poser-fbe07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83597672348:android:c4c7dd7c321c3c528dd259",
+        "android_client_info": {
+          "package_name": "com.example.poser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83597672348-t5omoeivjfako343dli1t2naomimuouk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbQDbnwWvm0Delvyit9tYiDXuaTgUiNtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83597672348-t5omoeivjfako343dli1t2naomimuouk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
